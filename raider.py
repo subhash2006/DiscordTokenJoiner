@@ -1,7 +1,7 @@
 import requests, time, random, threading, os
 
 os.system('cls')
-os.system('title Discord Token Raider - By Pepe ツ#9999')
+os.system('title Discord Token Raider - By Foz#0001')
 
 banner_text = '''
     ____                   __  __          __           
